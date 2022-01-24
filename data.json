@@ -71,7 +71,12 @@
             "firstname": "Antonin",
             "lastname": "Jouannet",
             "favoriteColor": "red :)"
+        },
+        {
+            "firstname": "Kévin",
+            "lastname": "Granger",
+            "favoriteColor": "red"
         }
-
+        
     ]
 }
